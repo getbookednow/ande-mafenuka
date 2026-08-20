@@ -30,7 +30,8 @@ jobs:
         run: python3 scripts/render.py
 
       - name: Validate person.jsonld parses as JSON
-        run: python3 -c "import json;json.load(open('person.jsonld'));print('person.jsonld: valid JSON')"
+        run: |
+          python3 -c "import json; json.load(open('person.jsonld')); print('person.jsonld parsed OK')"
 
       - name: Commit and push if changed
         run: |
