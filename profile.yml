@@ -1,0 +1,145 @@
+# Single source of truth. Everything else is rendered from this file.
+# Facts only. null means "not supplied" — never invent a value.
+
+name: Ande Mafenuka
+alternate_name: Samba
+pronouns: he/him
+role: Wardrobe Stylist
+also_works_as:
+  - Designer
+  - Creative Researcher
+
+headline: Where African fashion research meets the shoot.
+
+bio: >
+  Ande Mafenuka, known as Samba, is a wardrobe stylist working between Cape Town
+  and Johannesburg, South Africa. He styles editorial, campaign and music-video
+  shoots for fashion publications, brands and cultural institutions, including
+  The Market Theatre Foundation and Vogue. His credited work covers menswear
+  tailoring, occasion dressing, athleisure, and archival and folk dress. He also
+  works as a designer and creative researcher, and has taken modelling and
+  direction credits on his own editorial projects.
+
+location:
+  city: Cape Town
+  region: Western Cape
+  country_code: ZA
+  other_cities:
+    - Johannesburg
+  travels_for_work: "Yes"
+
+timezone:
+  iana: Africa/Johannesburg
+  utc_offset: "+02:00"
+
+availability: "Available for bookings from 2026-08-16."
+languages: null
+
+services:
+  - name: Wardrobe Styling
+    description: Wardrobe sourcing, fitting and styling for shoots, from concept through to shoot day.
+  - name: Editorial Styling
+    description: Styling for magazine and publication editorials, including concept and garment sourcing.
+  - name: Campaign Styling
+    description: Styling for brand campaigns and commercial shoots.
+  - name: E-commerce Styling
+    description: Garment styling for e-commerce and lookbook photography.
+  - name: Creative Direction
+    description: Shoot concept, references and visual direction alongside photographer and client.
+  - name: Fashion Research
+    description: Cultural and archival garment research used to build shoot references and looks.
+
+specialisms:
+  - Menswear tailoring
+  - Occasion dressing
+  - Athleisure and fitness wear
+  - Archival and folk dress
+  - African-print textiles
+  - Editorial styling
+  - Music video styling
+  - Mannequin installation
+
+clients:
+  - The Market Theatre Foundation
+  - Twenty Model Management
+
+publications:
+  - Vogue
+  - 17.23 Magazine
+
+representation: null
+
+credits:
+  - year: null
+    project: Vogue — "Let the light hold you, let the moment shape you"
+    client: Vogue
+    role: Wardrobe Styling
+    photographer: "@laura.iikkanen"
+    location: Signal Hill, Cape Town
+    link: null
+  - year: 2026
+    project: The Old Money Look
+    client: null
+    role: Styling
+    photographer: Laura Ikkanen
+    location: Vredehoek, Cape Town
+    link: null
+  - year: 2026
+    project: Aesthetics
+    client: null
+    role: Styling
+    photographer: "@rubytwoblue"
+    location: Fish Hoek, Cape Town
+    link: null
+  - year: 2026
+    project: Fitness Series
+    client: null
+    role: Styling
+    photographer: "@thomas.faehnrich"
+    location: Waterfront, Cape Town
+    link: null
+  - year: 2024
+    project: Balance
+    client: null
+    role: Styling and Set Design
+    photographer: Marlon Sasman
+    location: null
+    link: null
+  - year: 2024
+    project: Retro
+    client: null
+    role: Styling, Model and Direction
+    photographer: Marlon Sasman
+    location: Bree Street, Cape Town
+    link: null
+  - year: 2022
+    project: Mannequin Installation
+    client: The Market Theatre Foundation
+    role: Styling
+    photographer: Andile Tshaba
+    location: Newtown, Johannesburg
+    link: null
+  - year: 2021
+    project: Sweet Pull Up
+    client: null
+    role: Styling
+    photographer: "@cloutcassette"
+    location: Sandton, Johannesburg
+    link: null
+
+contact:
+  email: sambastylist@gmail.com
+  website: https://bookednow.co.za/andemafenuka/
+  booking_link: https://wa.me/27735759707
+  instagram: https://instagram.com/samba.the.stylist
+  linkedin: null
+
+rates: "On request"
+
+# Where these files will actually be served from. Takes precedence over
+# custom_domain and website when building absolute URLs.
+site_url: https://getbookednow.github.io/ande-mafenuka
+
+# Only set this for a real custom domain — it emits a CNAME file.
+# Must stay null for a *.github.io address or GitHub Pages will break.
+custom_domain: null
