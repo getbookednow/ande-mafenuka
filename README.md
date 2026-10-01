@@ -65,4 +65,4 @@ Menswear tailoring, Occasion dressing, Athleisure and fitness wear, Archival and
 
 Machine-readable: [person.jsonld](https://getbookednow.github.io/ande-mafenuka/person.jsonld) · [llms.txt](https://getbookednow.github.io/ande-mafenuka/llms.txt) · [sitemap.xml](https://getbookednow.github.io/ande-mafenuka/sitemap.xml) · [credits.md](https://getbookednow.github.io/ande-mafenuka/credits.md)
 
-Last updated: 2026-09-01
+Last updated: 2026-10-01

@@ -11,4 +11,4 @@
 | 2021 | Sweet Pull Up | — | Styling | @cloutcassette | — |
 | — | Vogue — "Let the light hold you, let the moment shape you" | Vogue | Wardrobe Styling | @laura.iikkanen | — |
 
-Last updated: 2026-09-01
+Last updated: 2026-10-01
